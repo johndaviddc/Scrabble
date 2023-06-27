@@ -1,4 +1,4 @@
-# Scrabble Word Scorer
+# SCRABBLE WORD SCORER
 
 This program allows two players to input words and calculates their scores using the standard Scrabble point system. The player with the highest score wins, and in the case of a tie, the program will declare a tie.
 
